@@ -1,29 +1,25 @@
 # 💰 Personal Expense Pattern Analyzer
 
-A Machine Learning–based Streamlit web application that analyzes personal expense data by classifying transactions into categories, predicting monthly spending using regression models, and detecting abnormal or suspicious transactions through anomaly detection techniques.
+A Machine Learning–based Streamlit web application that analyzes personal expense data by classifying transactions into categories, predicting monthly spending using regression models, and detecting abnormal or suspicious transactions using anomaly detection techniques.
 
 ---
 
 ## 📌 Project Overview
 
-Managing personal finances effectively requires understanding spending behavior.  
-This project uses Machine Learning algorithms to automatically analyze expense data and provide meaningful insights through an interactive web interface.
+Managing personal finances effectively requires a clear understanding of spending behavior.  
+This project leverages Machine Learning algorithms to analyze personal expense data and provide meaningful insights through an interactive web interface.
 
-The system performs:
-- Expense category classification
-- Monthly expense prediction
-- Anomaly detection for unusual transactions
-- Data visualization for better understanding of spending patterns
+The system automates expense analysis by classifying transactions, forecasting future expenses, and identifying unusual spending patterns, making it useful for personal finance management and educational purposes.
 
 ---
 
 ## 🚀 Features
 
-- 🔍 **Expense Category Classification** using Random Forest Classifier  
-- 📈 **Monthly Expense Prediction** using Regression Models  
-- 🚨 **Anomaly Detection** using Isolation Forest  
-- 📊 **Interactive Visualizations** with charts and graphs  
-- 🌐 **Streamlit Web Application** with a clean and user-friendly interface  
+- 🔍 Expense category classification using Random Forest Classifier  
+- 📈 Monthly expense prediction using regression models  
+- 🚨 Anomaly detection using Isolation Forest  
+- 📊 Interactive data visualizations  
+- 🌐 User-friendly Streamlit web interface  
 
 ---
 
@@ -40,6 +36,7 @@ The system performs:
 ---
 
 ## 📂 Project Structure
+
 ```
 Personal-Expense-Pattern-Analyzer/
 │
@@ -53,32 +50,55 @@ Personal-Expense-Pattern-Analyzer/
 └── README.md                       # Project documentation
 ```
 
-
 ---
 
 ## ⚙️ How to Run the Project
 
-## 1️⃣ Install Required Dependencies
-
+### 1️⃣ Install Required Dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
----
-
-## 2️⃣ Run the Streamlit Application
-
+### 2️⃣ Run the Streamlit Application
 ```bash
 streamlit run app.py
 ```
 
+### 3️⃣ Open in Browser
+```
+http://localhost:8501
+```
+
 ---
 
-## 3️⃣ Open in Browser
+## 🎯 Use Cases
 
-After running the Streamlit command, the application will automatically open in your default web browser.  
-If it does not open automatically, manually visit:
+- Personal expense tracking and analysis  
+- Budget planning and financial forecasting  
+- Detection of unusual or suspicious transactions  
+- Academic and learning projects in Machine Learning  
 
-```
-http://localhost:8501/
-```
+---
+
+## 🔮 Future Enhancements
+
+- Category name decoding for user-friendly predictions  
+- User authentication and profile management  
+- Real-time expense input and tracking  
+- Database integration for persistent storage  
+- Advanced dashboards and analytics  
+
+---
+
+## 👩‍💻 Author
+
+**Nidhi Ghatole**  
+Machine Learning & Data Science Enthusiast  
+
+---
+
+## 📜 License
+
+This project is licensed for educational and learning purposes.  
+You are free to use and modify this project for non-commercial applications.
+
