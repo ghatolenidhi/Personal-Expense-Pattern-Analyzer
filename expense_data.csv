@@ -1,0 +1,1001 @@
+Date,Category,Amount,Payment_Mode,Description
+2024-02-09,Bills,3451,Debit Card,Expense
+2024-04-16,Food,653,UPI,Expense
+2024-05-15,Transport,281,Credit Card,Expense
+2024-02-22,Bills,2286,Debit Card,Expense
+2024-06-12,Transport,240,Credit Card,Expense
+2024-06-17,Transport,79,Debit Card,Expense
+2024-06-05,Food,329,Debit Card,Expense
+2024-04-05,Food,334,Cash,Expense
+2024-04-20,Shopping,3503,Debit Card,Expense
+2024-05-11,Grocery,1117,UPI,Expense
+2024-05-07,Bills,2785,Credit Card,Expense
+2024-06-15,Shopping,1353,Credit Card,Expense
+2024-05-25,Bills,3001,Credit Card,Expense
+2024-01-24,Shopping,4519,Debit Card,Expense
+2024-06-12,Transport,212,UPI,Expense
+2024-01-10,Bills,3643,Debit Card,Expense
+2024-03-05,Shopping,3779,Credit Card,Expense
+2024-06-12,Transport,141,Cash,Expense
+2024-03-31,Transport,249,Cash,Expense
+2024-01-27,Bills,3756,Cash,Expense
+2024-05-11,Grocery,784,Debit Card,Expense
+2024-02-08,Shopping,1088,Credit Card,Expense
+2024-01-02,Bills,1899,Cash,Expense
+2024-02-03,Entertainment,1967,Debit Card,Expense
+2024-06-10,Grocery,907,UPI,Expense
+2024-06-02,Bills,2096,Debit Card,Expense
+2024-03-06,Entertainment,705,Debit Card,Expense
+2024-05-30,Food,267,Credit Card,Expense
+2024-04-12,Transport,221,UPI,Expense
+2024-03-14,Bills,2492,Debit Card,Expense
+2024-04-18,Bills,1834,Debit Card,Expense
+2024-05-22,Transport,191,UPI,Expense
+2024-04-23,Shopping,1279,Debit Card,Expense
+2024-03-28,Entertainment,814,Credit Card,Expense
+2024-05-15,Grocery,645,Cash,Expense
+2024-04-16,Grocery,1276,Credit Card,Expense
+2024-01-22,Bills,2079,Cash,Expense
+2024-05-15,Bills,3706,Debit Card,Expense
+2024-04-05,Shopping,2468,Cash,Expense
+2024-03-27,Bills,1909,UPI,Expense
+2024-01-28,Food,918,Cash,Expense
+2024-03-19,Food,225,Debit Card,Expense
+2024-04-19,Entertainment,1276,UPI,Expense
+2024-03-29,Transport,197,UPI,Expense
+2024-03-10,Entertainment,598,Credit Card,Expense
+2024-06-02,Grocery,1084,Credit Card,Expense
+2024-06-29,Entertainment,1382,Credit Card,Expense
+2024-01-12,Shopping,4171,Credit Card,Expense
+2024-06-10,Grocery,627,Debit Card,Expense
+2024-04-06,Food,527,Cash,Expense
+2024-05-04,Transport,262,Debit Card,Expense
+2024-06-28,Grocery,1184,UPI,Expense
+2024-04-27,Shopping,4525,Cash,Expense
+2024-02-20,Shopping,3561,Credit Card,Expense
+2024-01-16,Bills,2669,Debit Card,Expense
+2024-04-04,Entertainment,1497,Debit Card,Expense
+2024-03-31,Entertainment,538,Debit Card,Expense
+2024-01-12,Transport,177,Debit Card,Expense
+2024-04-17,Food,603,Credit Card,Expense
+2024-06-25,Bills,2062,Debit Card,Expense
+2024-02-14,Grocery,532,Cash,Expense
+2024-02-09,Transport,125,UPI,Expense
+2024-05-14,Transport,278,Cash,Expense
+2024-05-20,Entertainment,1909,Credit Card,Expense
+2024-05-01,Bills,2322,Credit Card,Expense
+2024-01-25,Transport,81,Credit Card,Expense
+2024-02-07,Food,810,Debit Card,Expense
+2024-06-15,Food,833,Debit Card,Expense
+2024-02-05,Food,780,Cash,Expense
+2024-03-12,Grocery,1397,Cash,Expense
+2024-05-23,Shopping,4478,Cash,Expense
+2024-05-20,Entertainment,534,Debit Card,Expense
+2024-02-28,Food,553,Debit Card,Expense
+2024-04-04,Grocery,1297,Cash,Expense
+2024-05-29,Entertainment,1037,Credit Card,Expense
+2024-05-14,Entertainment,821,Credit Card,Expense
+2024-03-02,Shopping,2469,Credit Card,Expense
+2024-03-13,Entertainment,1951,Cash,Expense
+2024-02-27,Grocery,1196,UPI,Expense
+2024-02-20,Grocery,1108,Credit Card,Expense
+2024-03-05,Food,407,UPI,Expense
+2024-06-15,Grocery,1028,Debit Card,Expense
+2024-01-23,Transport,215,UPI,Expense
+2024-01-30,Food,533,UPI,Expense
+2024-06-12,Transport,86,Cash,Expense
+2024-02-24,Food,491,Debit Card,Expense
+2024-05-27,Food,953,Credit Card,Expense
+2024-01-10,Grocery,1002,UPI,Expense
+2024-04-24,Grocery,1213,UPI,Expense
+2024-04-08,Shopping,2111,Credit Card,Expense
+2024-03-17,Bills,3756,Credit Card,Expense
+2024-03-08,Entertainment,1733,Credit Card,Expense
+2024-05-10,Grocery,876,Cash,Expense
+2024-02-26,Grocery,546,Cash,Expense
+2024-02-11,Transport,214,UPI,Expense
+2024-03-19,Food,724,UPI,Expense
+2024-02-22,Shopping,2055,Cash,Expense
+2024-05-05,Grocery,864,Cash,Expense
+2024-01-05,Grocery,867,UPI,Expense
+2024-06-25,Shopping,1756,Credit Card,Expense
+2024-05-29,Food,966,Debit Card,Expense
+2024-01-27,Grocery,1022,Debit Card,Expense
+2024-01-09,Grocery,1129,Debit Card,Expense
+2024-05-13,Grocery,1441,Debit Card,Expense
+2024-02-01,Transport,86,Cash,Expense
+2024-06-06,Transport,205,Debit Card,Expense
+2024-03-27,Bills,3124,UPI,Expense
+2024-04-16,Bills,2445,Cash,Expense
+2024-02-23,Entertainment,662,UPI,Expense
+2024-01-18,Bills,2713,UPI,Expense
+2024-06-15,Entertainment,346,UPI,Expense
+2024-04-30,Grocery,1387,Debit Card,Expense
+2024-05-08,Transport,241,Debit Card,Expense
+2024-06-18,Shopping,1292,Cash,Expense
+2024-01-06,Grocery,1447,Cash,Expense
+2024-01-22,Transport,208,Debit Card,Expense
+2024-02-28,Bills,2445,Credit Card,Expense
+2024-06-17,Transport,65,Debit Card,Expense
+2024-01-11,Food,685,Debit Card,Expense
+2024-05-16,Entertainment,1307,Credit Card,Expense
+2024-01-05,Grocery,731,Credit Card,Expense
+2024-01-14,Bills,3800,Cash,Expense
+2024-06-28,Shopping,1519,Credit Card,Expense
+2024-04-04,Bills,1979,Cash,Expense
+2024-05-28,Entertainment,827,Credit Card,Expense
+2024-02-11,Entertainment,802,Debit Card,Expense
+2024-03-07,Food,469,Credit Card,Expense
+2024-01-04,Entertainment,1705,Debit Card,Expense
+2024-05-17,Transport,74,Credit Card,Expense
+2024-05-24,Transport,250,UPI,Expense
+2024-02-28,Entertainment,965,Credit Card,Expense
+2024-03-11,Transport,262,Credit Card,Expense
+2024-03-06,Entertainment,1156,UPI,Expense
+2024-04-26,Grocery,787,Cash,Expense
+2024-03-02,Entertainment,845,Debit Card,Expense
+2024-01-29,Entertainment,890,UPI,Expense
+2024-04-13,Entertainment,1661,Credit Card,Expense
+2024-03-02,Food,801,Credit Card,Expense
+2024-04-14,Transport,116,Cash,Expense
+2024-04-06,Grocery,865,Cash,Expense
+2024-04-08,Shopping,4213,UPI,Expense
+2024-01-25,Bills,2259,Debit Card,Expense
+2024-03-19,Grocery,1291,Cash,Expense
+2024-02-16,Grocery,850,Credit Card,Expense
+2024-03-13,Grocery,1232,Debit Card,Expense
+2024-02-22,Transport,137,Credit Card,Expense
+2024-05-01,Bills,3517,UPI,Expense
+2024-04-05,Bills,2867,Credit Card,Expense
+2024-01-21,Grocery,1457,Cash,Expense
+2024-03-10,Food,738,Cash,Expense
+2024-03-14,Transport,189,Debit Card,Expense
+2024-06-08,Transport,173,UPI,Expense
+2024-04-15,Bills,2489,Cash,Expense
+2024-02-09,Entertainment,792,Cash,Expense
+2024-04-17,Entertainment,920,UPI,Expense
+2024-05-10,Entertainment,1812,Credit Card,Expense
+2024-06-29,Entertainment,1563,Debit Card,Expense
+2024-04-10,Bills,2265,Cash,Expense
+2024-03-30,Entertainment,730,UPI,Expense
+2024-01-23,Shopping,4290,Debit Card,Expense
+2024-04-19,Transport,182,Credit Card,Expense
+2024-03-22,Grocery,1024,UPI,Expense
+2024-05-01,Transport,130,Debit Card,Expense
+2024-02-19,Food,612,Cash,Expense
+2024-02-10,Grocery,1167,Credit Card,Expense
+2024-03-13,Entertainment,383,UPI,Expense
+2024-05-10,Transport,204,Credit Card,Expense
+2024-05-07,Grocery,1031,Credit Card,Expense
+2024-01-28,Bills,3885,Credit Card,Expense
+2024-04-18,Shopping,2429,UPI,Expense
+2024-06-16,Entertainment,1618,UPI,Expense
+2024-04-25,Bills,3532,Cash,Expense
+2024-03-31,Food,315,Credit Card,Expense
+2024-05-25,Grocery,1297,Credit Card,Expense
+2024-01-23,Shopping,4669,Debit Card,Expense
+2024-04-17,Food,388,Debit Card,Expense
+2024-01-14,Transport,258,Debit Card,Expense
+2024-05-20,Food,347,Cash,Expense
+2024-03-20,Grocery,1322,UPI,Expense
+2024-02-20,Entertainment,827,Cash,Expense
+2024-06-12,Entertainment,1034,Cash,Expense
+2024-01-04,Entertainment,1585,Debit Card,Expense
+2024-05-19,Entertainment,1317,UPI,Expense
+2024-05-10,Food,532,Credit Card,Expense
+2024-02-02,Transport,217,Cash,Expense
+2024-01-01,Shopping,1057,Cash,Expense
+2024-02-23,Transport,122,UPI,Expense
+2024-04-23,Grocery,1282,UPI,Expense
+2024-05-21,Bills,2031,UPI,Expense
+2024-04-14,Bills,1550,UPI,Expense
+2024-05-30,Food,882,UPI,Expense
+2024-03-24,Entertainment,1416,Cash,Expense
+2024-02-18,Grocery,625,Cash,Expense
+2024-06-28,Shopping,2892,Cash,Expense
+2024-05-11,Food,454,Debit Card,Expense
+2024-02-17,Entertainment,1665,Cash,Expense
+2024-06-11,Entertainment,569,Cash,Expense
+2024-06-01,Entertainment,1449,Cash,Expense
+2024-02-19,Grocery,934,Debit Card,Expense
+2024-02-28,Shopping,1676,Debit Card,Expense
+2024-05-29,Bills,2761,Debit Card,Expense
+2024-04-15,Grocery,654,Cash,Expense
+2024-02-04,Grocery,1432,Credit Card,Expense
+2024-02-05,Shopping,4862,Credit Card,Expense
+2024-01-28,Entertainment,1007,Debit Card,Expense
+2024-06-05,Food,587,UPI,Expense
+2024-04-05,Food,203,Debit Card,Expense
+2024-01-21,Grocery,742,Credit Card,Expense
+2024-04-09,Food,204,Debit Card,Expense
+2024-05-16,Food,606,Credit Card,Expense
+2024-04-13,Entertainment,1243,Cash,Expense
+2024-06-13,Grocery,593,Credit Card,Expense
+2024-06-13,Grocery,560,Credit Card,Expense
+2024-04-27,Shopping,3268,UPI,Expense
+2024-02-19,Shopping,1270,Credit Card,Expense
+2024-03-28,Grocery,1230,UPI,Expense
+2024-03-19,Grocery,1226,Credit Card,Expense
+2024-04-23,Entertainment,991,Credit Card,Expense
+2024-01-23,Transport,300,Debit Card,Expense
+2024-03-13,Food,729,Debit Card,Expense
+2024-03-25,Grocery,1061,Credit Card,Expense
+2024-05-15,Shopping,2934,UPI,Expense
+2024-05-26,Bills,3376,Credit Card,Expense
+2024-05-22,Grocery,616,UPI,Expense
+2024-05-19,Shopping,1202,Credit Card,Expense
+2024-03-05,Entertainment,558,UPI,Expense
+2024-01-03,Food,222,Cash,Expense
+2024-02-19,Entertainment,1759,Cash,Expense
+2024-04-12,Entertainment,865,UPI,Expense
+2024-03-31,Grocery,879,Cash,Expense
+2024-01-01,Entertainment,1130,Credit Card,Expense
+2024-01-29,Bills,3536,Credit Card,Expense
+2024-05-05,Entertainment,910,Cash,Expense
+2024-03-04,Bills,2530,UPI,Expense
+2024-04-29,Food,534,UPI,Expense
+2024-02-03,Shopping,2289,Debit Card,Expense
+2024-01-24,Entertainment,1382,UPI,Expense
+2024-05-10,Shopping,4304,Cash,Expense
+2024-03-26,Food,314,Credit Card,Expense
+2024-02-27,Grocery,1403,Credit Card,Expense
+2024-05-24,Grocery,1113,Credit Card,Expense
+2024-02-04,Bills,2256,Credit Card,Expense
+2024-04-09,Grocery,1383,Debit Card,Expense
+2024-05-21,Food,713,Credit Card,Expense
+2024-04-04,Transport,234,Debit Card,Expense
+2024-01-24,Transport,198,Cash,Expense
+2024-03-08,Entertainment,353,Credit Card,Expense
+2024-06-06,Grocery,999,Cash,Expense
+2024-04-17,Entertainment,1708,Cash,Expense
+2024-03-12,Food,666,Cash,Expense
+2024-05-09,Entertainment,1220,UPI,Expense
+2024-05-12,Grocery,1171,UPI,Expense
+2024-05-15,Grocery,627,UPI,Expense
+2024-03-19,Entertainment,617,Cash,Expense
+2024-02-01,Bills,2353,UPI,Expense
+2024-06-03,Shopping,1485,UPI,Expense
+2024-06-24,Food,809,Credit Card,Expense
+2024-02-28,Bills,3656,Cash,Expense
+2024-05-16,Shopping,4204,Cash,Expense
+2024-02-03,Transport,91,UPI,Expense
+2024-01-25,Food,696,Cash,Expense
+2024-03-31,Food,618,Credit Card,Expense
+2024-01-07,Food,647,Debit Card,Expense
+2024-06-25,Grocery,1434,Cash,Expense
+2024-03-03,Shopping,4988,Debit Card,Expense
+2024-03-25,Bills,2443,UPI,Expense
+2024-03-04,Grocery,1141,Credit Card,Expense
+2024-02-13,Entertainment,1542,Debit Card,Expense
+2024-02-22,Food,998,Credit Card,Expense
+2024-01-29,Shopping,2689,Debit Card,Expense
+2024-05-11,Entertainment,1633,Cash,Expense
+2024-06-24,Shopping,1606,Cash,Expense
+2024-03-10,Shopping,1862,Cash,Expense
+2024-04-02,Transport,284,UPI,Expense
+2024-03-14,Shopping,1668,Cash,Expense
+2024-01-26,Shopping,1439,Cash,Expense
+2024-05-31,Transport,172,Debit Card,Expense
+2024-04-10,Entertainment,1951,Cash,Expense
+2024-03-06,Bills,3085,UPI,Expense
+2024-02-07,Transport,90,Debit Card,Expense
+2024-04-02,Shopping,4230,Credit Card,Expense
+2024-04-29,Bills,3564,Credit Card,Expense
+2024-02-28,Transport,224,Credit Card,Expense
+2024-05-12,Bills,3551,Debit Card,Expense
+2024-01-25,Shopping,4418,Debit Card,Expense
+2024-02-20,Grocery,802,Cash,Expense
+2024-05-31,Shopping,3771,Debit Card,Expense
+2024-06-19,Bills,1900,Cash,Expense
+2024-05-10,Transport,225,UPI,Expense
+2024-05-24,Grocery,800,Cash,Expense
+2024-06-05,Bills,3126,Credit Card,Expense
+2024-04-30,Bills,2135,Debit Card,Expense
+2024-06-22,Food,715,Cash,Expense
+2024-04-05,Grocery,1065,Credit Card,Expense
+2024-01-03,Entertainment,973,Cash,Expense
+2024-06-08,Transport,236,Debit Card,Expense
+2024-05-12,Shopping,4715,Debit Card,Expense
+2024-06-28,Grocery,1049,Debit Card,Expense
+2024-03-14,Grocery,1117,Cash,Expense
+2024-03-23,Grocery,1490,Cash,Expense
+2024-02-29,Food,873,UPI,Expense
+2024-01-14,Transport,120,Cash,Expense
+2024-03-16,Food,514,Debit Card,Expense
+2024-06-26,Grocery,1244,UPI,Expense
+2024-06-28,Bills,2427,Credit Card,Expense
+2024-01-29,Food,568,Debit Card,Expense
+2024-02-08,Entertainment,732,Debit Card,Expense
+2024-04-13,Bills,2169,Cash,Expense
+2024-04-11,Bills,2198,UPI,Expense
+2024-01-28,Food,987,UPI,Expense
+2024-05-26,Shopping,2420,Credit Card,Expense
+2024-05-27,Grocery,1075,Debit Card,Expense
+2024-04-03,Bills,3247,Debit Card,Expense
+2024-01-30,Shopping,2984,Credit Card,Expense
+2024-04-06,Grocery,586,UPI,Expense
+2024-04-06,Entertainment,328,Cash,Expense
+2024-03-05,Grocery,544,Debit Card,Expense
+2024-01-08,Grocery,595,Debit Card,Expense
+2024-02-29,Transport,288,Cash,Expense
+2024-03-19,Grocery,748,Debit Card,Expense
+2024-06-09,Food,389,UPI,Expense
+2024-06-04,Food,402,Debit Card,Expense
+2024-05-07,Grocery,1380,Credit Card,Expense
+2024-05-28,Shopping,2479,Credit Card,Expense
+2024-02-20,Bills,3863,Credit Card,Expense
+2024-03-04,Shopping,1095,UPI,Expense
+2024-01-21,Bills,2470,UPI,Expense
+2024-01-28,Bills,2102,Cash,Expense
+2024-04-05,Shopping,1454,Debit Card,Expense
+2024-02-04,Food,401,Debit Card,Expense
+2024-05-13,Bills,2224,Credit Card,Expense
+2024-05-14,Food,764,Credit Card,Expense
+2024-06-09,Bills,2993,Cash,Expense
+2024-03-22,Shopping,1016,Debit Card,Expense
+2024-02-18,Bills,2146,Cash,Expense
+2024-05-22,Shopping,2655,Debit Card,Expense
+2024-05-22,Entertainment,941,Cash,Expense
+2024-04-06,Bills,1702,Credit Card,Expense
+2024-01-08,Entertainment,1108,Debit Card,Expense
+2024-06-28,Entertainment,826,Credit Card,Expense
+2024-05-10,Bills,1709,UPI,Expense
+2024-04-11,Shopping,1199,UPI,Expense
+2024-02-02,Food,999,Credit Card,Expense
+2024-06-24,Food,886,Credit Card,Expense
+2024-03-06,Grocery,533,Debit Card,Expense
+2024-01-29,Grocery,1111,Debit Card,Expense
+2024-05-14,Entertainment,1696,UPI,Expense
+2024-01-18,Transport,193,Cash,Expense
+2024-04-10,Entertainment,363,Debit Card,Expense
+2024-01-19,Food,675,UPI,Expense
+2024-03-21,Shopping,2316,Cash,Expense
+2024-06-26,Grocery,1377,Cash,Expense
+2024-05-08,Shopping,1649,Credit Card,Expense
+2024-01-26,Grocery,1078,Credit Card,Expense
+2024-02-27,Food,828,UPI,Expense
+2024-06-25,Transport,89,UPI,Expense
+2024-03-27,Entertainment,1581,UPI,Expense
+2024-01-02,Food,692,Cash,Expense
+2024-03-12,Entertainment,1384,Cash,Expense
+2024-02-15,Bills,2187,UPI,Expense
+2024-06-27,Bills,1742,Debit Card,Expense
+2024-05-01,Food,930,Debit Card,Expense
+2024-03-04,Bills,2156,Cash,Expense
+2024-05-24,Grocery,729,Debit Card,Expense
+2024-03-10,Transport,201,Credit Card,Expense
+2024-04-12,Entertainment,941,Cash,Expense
+2024-04-03,Entertainment,828,Debit Card,Expense
+2024-02-27,Food,485,UPI,Expense
+2024-02-10,Grocery,1109,Credit Card,Expense
+2024-02-07,Shopping,2323,Cash,Expense
+2024-04-11,Entertainment,1307,Debit Card,Expense
+2024-05-19,Shopping,3167,UPI,Expense
+2024-02-22,Bills,2314,Debit Card,Expense
+2024-05-22,Bills,3104,Credit Card,Expense
+2024-03-28,Food,415,UPI,Expense
+2024-06-20,Bills,3836,Debit Card,Expense
+2024-01-16,Shopping,1793,Credit Card,Expense
+2024-06-23,Food,440,Debit Card,Expense
+2024-05-28,Entertainment,320,Cash,Expense
+2024-04-01,Transport,122,Debit Card,Expense
+2024-01-09,Bills,3816,Debit Card,Expense
+2024-01-10,Entertainment,1411,UPI,Expense
+2024-03-19,Entertainment,859,Debit Card,Expense
+2024-04-12,Transport,152,UPI,Expense
+2024-03-27,Bills,2350,UPI,Expense
+2024-02-14,Grocery,1318,Cash,Expense
+2024-04-17,Grocery,1280,Credit Card,Expense
+2024-02-09,Food,547,Cash,Expense
+2024-05-31,Grocery,1455,Credit Card,Expense
+2024-06-13,Food,345,Cash,Expense
+2024-03-14,Shopping,3228,Debit Card,Expense
+2024-05-08,Entertainment,527,Credit Card,Expense
+2024-01-14,Food,908,UPI,Expense
+2024-01-12,Food,523,Debit Card,Expense
+2024-06-16,Entertainment,344,Credit Card,Expense
+2024-01-27,Shopping,4706,Credit Card,Expense
+2024-06-22,Entertainment,929,Debit Card,Expense
+2024-06-10,Entertainment,508,Credit Card,Expense
+2024-01-04,Transport,202,Debit Card,Expense
+2024-05-22,Grocery,625,Credit Card,Expense
+2024-02-11,Bills,3768,UPI,Expense
+2024-03-01,Shopping,1338,Debit Card,Expense
+2024-06-22,Grocery,1111,Debit Card,Expense
+2024-06-03,Transport,251,Cash,Expense
+2024-03-22,Bills,2966,Credit Card,Expense
+2024-02-25,Grocery,1021,Debit Card,Expense
+2024-03-27,Bills,2623,UPI,Expense
+2024-06-14,Grocery,1405,Debit Card,Expense
+2024-02-15,Food,558,Credit Card,Expense
+2024-02-03,Food,559,UPI,Expense
+2024-05-05,Shopping,2730,UPI,Expense
+2024-03-12,Shopping,1137,Credit Card,Expense
+2024-01-07,Transport,185,Credit Card,Expense
+2024-05-06,Transport,132,Cash,Expense
+2024-02-21,Bills,1803,UPI,Expense
+2024-05-18,Shopping,4256,Credit Card,Expense
+2024-01-27,Entertainment,645,Credit Card,Expense
+2024-03-11,Grocery,1339,Credit Card,Expense
+2024-03-22,Entertainment,626,Debit Card,Expense
+2024-02-02,Grocery,1133,Cash,Expense
+2024-04-13,Shopping,4921,Debit Card,Expense
+2024-02-27,Entertainment,601,UPI,Expense
+2024-05-11,Shopping,1725,Debit Card,Expense
+2024-01-06,Shopping,2181,Credit Card,Expense
+2024-01-24,Transport,115,Cash,Expense
+2024-01-01,Transport,158,Cash,Expense
+2024-02-03,Grocery,787,Cash,Expense
+2024-04-01,Shopping,4779,Debit Card,Expense
+2024-01-27,Food,810,UPI,Expense
+2024-05-21,Transport,221,Cash,Expense
+2024-06-06,Shopping,4662,Debit Card,Expense
+2024-03-08,Grocery,655,Cash,Expense
+2024-01-10,Food,846,Debit Card,Expense
+2024-03-15,Grocery,655,Credit Card,Expense
+2024-01-10,Shopping,3315,Cash,Expense
+2024-02-02,Grocery,1409,Debit Card,Expense
+2024-02-11,Grocery,844,Debit Card,Expense
+2024-02-10,Transport,268,UPI,Expense
+2024-02-06,Transport,205,Credit Card,Expense
+2024-03-14,Shopping,1431,Cash,Expense
+2024-03-06,Food,982,Cash,Expense
+2024-01-24,Transport,66,Credit Card,Expense
+2024-03-25,Entertainment,852,Cash,Expense
+2024-02-21,Food,837,UPI,Expense
+2024-02-22,Shopping,2656,Credit Card,Expense
+2024-05-30,Entertainment,993,Cash,Expense
+2024-03-19,Bills,3433,Credit Card,Expense
+2024-05-27,Entertainment,1253,Cash,Expense
+2024-02-23,Shopping,2191,Cash,Expense
+2024-01-25,Shopping,4356,Cash,Expense
+2024-05-14,Food,846,Credit Card,Expense
+2024-04-23,Transport,54,UPI,Expense
+2024-04-05,Grocery,799,Debit Card,Expense
+2024-03-09,Grocery,652,UPI,Expense
+2024-01-27,Shopping,4149,Credit Card,Expense
+2024-05-11,Bills,1889,UPI,Expense
+2024-06-11,Transport,246,Debit Card,Expense
+2024-01-12,Shopping,4608,Credit Card,Expense
+2024-05-16,Entertainment,509,Debit Card,Expense
+2024-03-13,Shopping,2573,UPI,Expense
+2024-06-01,Entertainment,742,UPI,Expense
+2024-06-06,Shopping,4464,Debit Card,Expense
+2024-02-15,Bills,2416,Debit Card,Expense
+2024-01-05,Food,880,UPI,Expense
+2024-03-03,Food,840,Credit Card,Expense
+2024-06-16,Grocery,557,UPI,Expense
+2024-02-11,Shopping,1162,Debit Card,Expense
+2024-02-17,Food,789,Debit Card,Expense
+2024-06-21,Shopping,4688,Cash,Expense
+2024-01-09,Entertainment,1738,Credit Card,Expense
+2024-03-29,Entertainment,1028,Cash,Expense
+2024-03-02,Shopping,1737,Debit Card,Expense
+2024-06-18,Transport,216,Cash,Expense
+2024-05-09,Food,363,Cash,Expense
+2024-06-05,Bills,1960,Cash,Expense
+2024-02-23,Grocery,1413,Debit Card,Expense
+2024-03-07,Transport,58,Credit Card,Expense
+2024-01-21,Bills,2068,UPI,Expense
+2024-04-13,Transport,148,UPI,Expense
+2024-01-23,Food,840,Cash,Expense
+2024-05-26,Food,520,UPI,Expense
+2024-04-10,Entertainment,1054,UPI,Expense
+2024-05-23,Shopping,3537,UPI,Expense
+2024-02-04,Grocery,555,UPI,Expense
+2024-01-09,Food,577,Cash,Expense
+2024-04-08,Entertainment,712,UPI,Expense
+2024-05-28,Bills,2689,Debit Card,Expense
+2024-03-07,Entertainment,837,Credit Card,Expense
+2024-05-17,Entertainment,1669,Cash,Expense
+2024-02-07,Shopping,1105,Credit Card,Expense
+2024-06-03,Food,539,UPI,Expense
+2024-02-15,Entertainment,308,Cash,Expense
+2024-03-21,Bills,2138,Credit Card,Expense
+2024-05-12,Grocery,1151,Cash,Expense
+2024-04-29,Bills,1761,UPI,Expense
+2024-01-24,Grocery,812,Debit Card,Expense
+2024-03-09,Bills,3708,UPI,Expense
+2024-05-24,Shopping,3746,Cash,Expense
+2024-05-14,Bills,2038,UPI,Expense
+2024-01-06,Bills,3609,UPI,Expense
+2024-06-11,Grocery,1230,Credit Card,Expense
+2024-05-18,Shopping,4426,Credit Card,Expense
+2024-05-28,Shopping,4014,Debit Card,Expense
+2024-06-07,Bills,3806,UPI,Expense
+2024-01-02,Entertainment,1838,Cash,Expense
+2024-06-03,Entertainment,700,Cash,Expense
+2024-02-18,Entertainment,1837,UPI,Expense
+2024-06-21,Bills,3019,Cash,Expense
+2024-04-19,Bills,2551,Debit Card,Expense
+2024-03-17,Transport,282,Debit Card,Expense
+2024-01-27,Food,681,Cash,Expense
+2024-02-08,Entertainment,1886,UPI,Expense
+2024-04-22,Bills,1935,Cash,Expense
+2024-03-15,Food,870,Debit Card,Expense
+2024-06-04,Bills,3378,Credit Card,Expense
+2024-03-03,Shopping,1466,Cash,Expense
+2024-01-25,Food,490,Credit Card,Expense
+2024-01-26,Grocery,1178,Debit Card,Expense
+2024-04-28,Shopping,4295,UPI,Expense
+2024-06-29,Bills,2691,Cash,Expense
+2024-02-24,Shopping,1445,Credit Card,Expense
+2024-03-15,Bills,3311,UPI,Expense
+2024-01-22,Grocery,727,Credit Card,Expense
+2024-06-03,Shopping,3942,Cash,Expense
+2024-02-16,Transport,300,Cash,Expense
+2024-01-17,Transport,69,Cash,Expense
+2024-03-08,Shopping,1101,Cash,Expense
+2024-01-09,Transport,124,Debit Card,Expense
+2024-02-03,Transport,176,Debit Card,Expense
+2024-03-25,Shopping,2827,Credit Card,Expense
+2024-04-26,Entertainment,892,Cash,Expense
+2024-01-26,Entertainment,1613,Debit Card,Expense
+2024-06-22,Grocery,1177,Credit Card,Expense
+2024-02-20,Bills,3091,Debit Card,Expense
+2024-05-14,Shopping,2274,Credit Card,Expense
+2024-02-05,Transport,168,UPI,Expense
+2024-03-24,Transport,137,Credit Card,Expense
+2024-04-18,Food,861,Cash,Expense
+2024-06-16,Food,734,Cash,Expense
+2024-01-13,Bills,1567,Cash,Expense
+2024-03-21,Grocery,793,UPI,Expense
+2024-05-31,Grocery,1396,UPI,Expense
+2024-05-17,Bills,3021,Cash,Expense
+2024-02-28,Food,547,Debit Card,Expense
+2024-04-21,Bills,3413,Cash,Expense
+2024-02-16,Entertainment,1462,Debit Card,Expense
+2024-04-20,Shopping,3659,Debit Card,Expense
+2024-05-14,Transport,227,Debit Card,Expense
+2024-01-05,Transport,87,Credit Card,Expense
+2024-03-23,Entertainment,384,UPI,Expense
+2024-02-08,Bills,2712,Credit Card,Expense
+2024-06-24,Food,436,Credit Card,Expense
+2024-04-09,Entertainment,664,Cash,Expense
+2024-05-24,Grocery,1089,UPI,Expense
+2024-02-10,Grocery,1222,Cash,Expense
+2024-04-23,Shopping,2551,Cash,Expense
+2024-03-29,Shopping,3262,UPI,Expense
+2024-04-06,Entertainment,583,Cash,Expense
+2024-01-21,Bills,3001,Cash,Expense
+2024-06-27,Grocery,801,Credit Card,Expense
+2024-04-07,Shopping,3799,UPI,Expense
+2024-05-10,Shopping,2258,Cash,Expense
+2024-01-20,Entertainment,1444,UPI,Expense
+2024-04-19,Transport,179,Credit Card,Expense
+2024-01-27,Entertainment,377,Cash,Expense
+2024-04-08,Food,558,Debit Card,Expense
+2024-03-29,Entertainment,1099,Cash,Expense
+2024-06-05,Shopping,4212,UPI,Expense
+2024-06-19,Grocery,1476,UPI,Expense
+2024-03-21,Food,314,Credit Card,Expense
+2024-06-04,Shopping,2060,Debit Card,Expense
+2024-05-21,Transport,174,Cash,Expense
+2024-01-31,Shopping,2793,Credit Card,Expense
+2024-03-10,Entertainment,924,UPI,Expense
+2024-04-20,Transport,201,Credit Card,Expense
+2024-03-23,Shopping,4437,Debit Card,Expense
+2024-01-26,Bills,1779,Debit Card,Expense
+2024-01-14,Transport,248,UPI,Expense
+2024-05-02,Food,474,Cash,Expense
+2024-01-25,Transport,53,Cash,Expense
+2024-04-04,Shopping,2248,Credit Card,Expense
+2024-06-09,Grocery,535,Credit Card,Expense
+2024-03-20,Shopping,2038,Credit Card,Expense
+2024-03-06,Bills,2232,UPI,Expense
+2024-03-23,Transport,57,Credit Card,Expense
+2024-03-23,Shopping,4869,Credit Card,Expense
+2024-01-24,Entertainment,1235,Cash,Expense
+2024-05-09,Transport,102,UPI,Expense
+2024-03-25,Food,536,Debit Card,Expense
+2024-06-04,Transport,294,UPI,Expense
+2024-01-21,Transport,133,UPI,Expense
+2024-06-24,Grocery,818,Debit Card,Expense
+2024-05-24,Entertainment,1295,Debit Card,Expense
+2024-02-21,Transport,294,Cash,Expense
+2024-06-02,Grocery,629,Cash,Expense
+2024-01-13,Transport,223,Debit Card,Expense
+2024-04-11,Food,939,Cash,Expense
+2024-01-06,Shopping,3936,Debit Card,Expense
+2024-06-17,Shopping,2861,Credit Card,Expense
+2024-06-23,Shopping,1609,Debit Card,Expense
+2024-06-24,Grocery,687,Debit Card,Expense
+2024-01-26,Bills,2867,Credit Card,Expense
+2024-05-05,Bills,3648,Cash,Expense
+2024-03-05,Shopping,4926,Debit Card,Expense
+2024-03-16,Shopping,2277,UPI,Expense
+2024-02-09,Transport,108,Debit Card,Expense
+2024-01-01,Food,906,Debit Card,Expense
+2024-01-23,Bills,3930,Credit Card,Expense
+2024-04-01,Entertainment,1740,Cash,Expense
+2024-02-14,Bills,3936,Credit Card,Expense
+2024-01-31,Entertainment,1797,Credit Card,Expense
+2024-01-16,Grocery,735,Cash,Expense
+2024-02-08,Transport,76,UPI,Expense
+2024-06-19,Entertainment,992,Credit Card,Expense
+2024-02-28,Food,762,Cash,Expense
+2024-06-20,Entertainment,900,Debit Card,Expense
+2024-01-28,Entertainment,1905,Credit Card,Expense
+2024-06-19,Transport,125,Credit Card,Expense
+2024-02-01,Food,209,Debit Card,Expense
+2024-03-06,Bills,3204,UPI,Expense
+2024-02-14,Grocery,1490,Credit Card,Expense
+2024-06-15,Transport,225,Credit Card,Expense
+2024-02-13,Bills,2963,Credit Card,Expense
+2024-02-01,Entertainment,1909,Credit Card,Expense
+2024-02-28,Grocery,950,Debit Card,Expense
+2024-02-11,Shopping,4950,UPI,Expense
+2024-02-19,Transport,208,Credit Card,Expense
+2024-06-22,Transport,50,Debit Card,Expense
+2024-04-04,Grocery,1125,Debit Card,Expense
+2024-03-28,Transport,190,Credit Card,Expense
+2024-03-09,Entertainment,1818,UPI,Expense
+2024-03-03,Food,300,Cash,Expense
+2024-04-16,Food,435,Credit Card,Expense
+2024-03-05,Shopping,2189,UPI,Expense
+2024-06-18,Shopping,3113,Debit Card,Expense
+2024-04-22,Grocery,1494,Debit Card,Expense
+2024-02-11,Shopping,3825,UPI,Expense
+2024-03-16,Grocery,507,Debit Card,Expense
+2024-02-04,Transport,287,Cash,Expense
+2024-01-03,Entertainment,861,UPI,Expense
+2024-05-25,Transport,171,UPI,Expense
+2024-04-18,Bills,3408,Debit Card,Expense
+2024-03-29,Food,811,Debit Card,Expense
+2024-05-07,Bills,2201,Cash,Expense
+2024-06-06,Entertainment,628,UPI,Expense
+2024-01-14,Transport,256,Debit Card,Expense
+2024-05-07,Bills,3011,UPI,Expense
+2024-02-01,Entertainment,1077,UPI,Expense
+2024-04-30,Shopping,1859,Cash,Expense
+2024-06-02,Food,628,Credit Card,Expense
+2024-05-30,Shopping,3044,Cash,Expense
+2024-05-29,Grocery,1025,UPI,Expense
+2024-01-23,Shopping,2357,Debit Card,Expense
+2024-01-19,Entertainment,1760,UPI,Expense
+2024-02-27,Food,359,Cash,Expense
+2024-01-22,Bills,2286,Debit Card,Expense
+2024-01-19,Transport,170,Debit Card,Expense
+2024-06-04,Entertainment,1310,Credit Card,Expense
+2024-02-13,Shopping,3256,Debit Card,Expense
+2024-04-19,Grocery,630,Debit Card,Expense
+2024-01-30,Food,241,UPI,Expense
+2024-01-18,Food,474,UPI,Expense
+2024-04-12,Bills,3301,UPI,Expense
+2024-04-12,Shopping,1656,Cash,Expense
+2024-04-19,Shopping,2744,Credit Card,Expense
+2024-02-23,Bills,3480,Cash,Expense
+2024-02-29,Entertainment,1888,Debit Card,Expense
+2024-02-22,Shopping,3847,Cash,Expense
+2024-06-05,Bills,3076,Credit Card,Expense
+2024-05-08,Transport,62,Cash,Expense
+2024-01-10,Grocery,890,Debit Card,Expense
+2024-03-21,Transport,86,Cash,Expense
+2024-03-07,Grocery,1418,Credit Card,Expense
+2024-02-17,Food,697,UPI,Expense
+2024-02-08,Food,212,Credit Card,Expense
+2024-01-26,Entertainment,864,Cash,Expense
+2024-02-04,Entertainment,1384,UPI,Expense
+2024-01-25,Grocery,1028,UPI,Expense
+2024-06-08,Shopping,4987,UPI,Expense
+2024-06-21,Shopping,1150,Credit Card,Expense
+2024-01-01,Grocery,1423,Credit Card,Expense
+2024-01-14,Grocery,509,Cash,Expense
+2024-05-20,Entertainment,676,Cash,Expense
+2024-01-09,Entertainment,1292,Debit Card,Expense
+2024-03-14,Bills,2568,Credit Card,Expense
+2024-04-04,Bills,3318,Credit Card,Expense
+2024-04-17,Shopping,3874,UPI,Expense
+2024-01-11,Transport,213,Cash,Expense
+2024-02-20,Food,807,UPI,Expense
+2024-06-11,Shopping,3997,UPI,Expense
+2024-01-02,Food,276,Credit Card,Expense
+2024-04-24,Grocery,997,Cash,Expense
+2024-02-27,Bills,1654,Cash,Expense
+2024-04-30,Shopping,2175,Credit Card,Expense
+2024-01-20,Entertainment,1749,Debit Card,Expense
+2024-04-28,Food,558,Cash,Expense
+2024-05-15,Bills,3728,Cash,Expense
+2024-01-04,Food,540,Debit Card,Expense
+2024-01-01,Bills,2593,Debit Card,Expense
+2024-01-03,Shopping,4679,Debit Card,Expense
+2024-02-11,Entertainment,1562,UPI,Expense
+2024-04-08,Bills,3723,Credit Card,Expense
+2024-03-15,Transport,110,Cash,Expense
+2024-03-10,Grocery,1236,Credit Card,Expense
+2024-04-30,Transport,125,Credit Card,Expense
+2024-01-20,Entertainment,950,Cash,Expense
+2024-05-12,Transport,92,Cash,Expense
+2024-02-17,Grocery,925,Debit Card,Expense
+2024-06-15,Food,271,Debit Card,Expense
+2024-06-17,Grocery,1192,Credit Card,Expense
+2024-06-02,Shopping,3554,Credit Card,Expense
+2024-03-21,Shopping,3411,Cash,Expense
+2024-05-23,Food,430,Credit Card,Expense
+2024-01-05,Shopping,3109,Cash,Expense
+2024-04-10,Bills,3924,Cash,Expense
+2024-01-01,Entertainment,1408,Cash,Expense
+2024-02-17,Shopping,1143,Debit Card,Expense
+2024-06-01,Entertainment,672,Debit Card,Expense
+2024-04-22,Shopping,4884,Cash,Expense
+2024-05-17,Food,372,UPI,Expense
+2024-04-26,Entertainment,970,Cash,Expense
+2024-04-11,Bills,3101,Cash,Expense
+2024-01-15,Entertainment,1211,Cash,Expense
+2024-04-26,Food,553,Debit Card,Expense
+2024-04-16,Grocery,1428,Credit Card,Expense
+2024-03-17,Entertainment,1033,UPI,Expense
+2024-05-31,Entertainment,957,UPI,Expense
+2024-01-19,Shopping,1227,Cash,Expense
+2024-01-26,Grocery,514,Debit Card,Expense
+2024-06-18,Shopping,1053,UPI,Expense
+2024-05-20,Shopping,1654,UPI,Expense
+2024-02-07,Food,674,Credit Card,Expense
+2024-03-06,Entertainment,1298,UPI,Expense
+2024-03-24,Entertainment,917,Debit Card,Expense
+2024-05-18,Food,228,UPI,Expense
+2024-04-08,Grocery,1366,Credit Card,Expense
+2024-05-06,Food,675,Credit Card,Expense
+2024-04-07,Shopping,4095,UPI,Expense
+2024-04-06,Entertainment,1496,Debit Card,Expense
+2024-04-10,Entertainment,975,Credit Card,Expense
+2024-04-21,Transport,117,Debit Card,Expense
+2024-02-14,Transport,152,Debit Card,Expense
+2024-06-08,Entertainment,1144,UPI,Expense
+2024-01-29,Grocery,799,Credit Card,Expense
+2024-05-26,Shopping,2995,Cash,Expense
+2024-01-26,Shopping,4859,Debit Card,Expense
+2024-03-20,Transport,98,Credit Card,Expense
+2024-06-29,Entertainment,830,Cash,Expense
+2024-03-11,Transport,168,UPI,Expense
+2024-06-13,Food,489,Cash,Expense
+2024-01-22,Grocery,1225,Debit Card,Expense
+2024-03-22,Grocery,623,Cash,Expense
+2024-01-03,Shopping,1539,UPI,Expense
+2024-03-23,Bills,1853,Credit Card,Expense
+2024-03-23,Food,946,Credit Card,Expense
+2024-06-26,Grocery,1040,UPI,Expense
+2024-04-23,Food,711,Cash,Expense
+2024-01-17,Grocery,608,Cash,Expense
+2024-02-21,Grocery,1255,Debit Card,Expense
+2024-05-02,Food,959,UPI,Expense
+2024-01-05,Bills,1882,Cash,Expense
+2024-01-23,Entertainment,1318,UPI,Expense
+2024-01-11,Transport,212,Cash,Expense
+2024-02-21,Food,995,Cash,Expense
+2024-04-11,Grocery,1334,Cash,Expense
+2024-03-04,Food,517,Credit Card,Expense
+2024-02-04,Transport,208,Cash,Expense
+2024-05-17,Entertainment,781,Cash,Expense
+2024-01-19,Bills,2978,Cash,Expense
+2024-01-02,Transport,157,Cash,Expense
+2024-06-06,Grocery,1041,UPI,Expense
+2024-03-12,Transport,221,UPI,Expense
+2024-03-12,Shopping,3076,Debit Card,Expense
+2024-03-13,Bills,2566,UPI,Expense
+2024-04-09,Grocery,617,Debit Card,Expense
+2024-02-16,Transport,262,UPI,Expense
+2024-06-02,Bills,2961,UPI,Expense
+2024-03-19,Shopping,3458,UPI,Expense
+2024-05-06,Shopping,2901,Credit Card,Expense
+2024-01-05,Shopping,2976,Credit Card,Expense
+2024-03-09,Entertainment,705,Debit Card,Expense
+2024-04-10,Shopping,4207,Cash,Expense
+2024-02-07,Bills,2752,Credit Card,Expense
+2024-06-27,Bills,3471,Debit Card,Expense
+2024-03-10,Transport,156,UPI,Expense
+2024-01-31,Transport,258,Credit Card,Expense
+2024-05-24,Grocery,803,UPI,Expense
+2024-06-23,Transport,80,Debit Card,Expense
+2024-03-15,Shopping,1759,Cash,Expense
+2024-04-11,Grocery,1159,Cash,Expense
+2024-06-08,Shopping,3879,Debit Card,Expense
+2024-03-15,Shopping,3291,UPI,Expense
+2024-06-15,Transport,278,Credit Card,Expense
+2024-04-25,Transport,284,Credit Card,Expense
+2024-02-16,Entertainment,1777,UPI,Expense
+2024-02-18,Grocery,571,UPI,Expense
+2024-03-27,Grocery,1087,Credit Card,Expense
+2024-01-14,Grocery,736,Credit Card,Expense
+2024-02-03,Bills,2853,Credit Card,Expense
+2024-06-23,Entertainment,1431,UPI,Expense
+2024-03-07,Food,507,Credit Card,Expense
+2024-05-06,Entertainment,1536,UPI,Expense
+2024-01-24,Shopping,3557,Debit Card,Expense
+2024-06-02,Entertainment,577,Cash,Expense
+2024-03-25,Entertainment,1449,UPI,Expense
+2024-03-10,Transport,251,Credit Card,Expense
+2024-06-05,Entertainment,495,UPI,Expense
+2024-02-18,Food,821,Credit Card,Expense
+2024-01-19,Food,221,Credit Card,Expense
+2024-02-21,Transport,107,Debit Card,Expense
+2024-04-25,Shopping,1391,Credit Card,Expense
+2024-03-12,Grocery,1019,Debit Card,Expense
+2024-02-29,Transport,190,UPI,Expense
+2024-01-01,Shopping,3261,Cash,Expense
+2024-06-18,Grocery,859,Debit Card,Expense
+2024-01-15,Transport,264,Debit Card,Expense
+2024-01-23,Food,474,Debit Card,Expense
+2024-02-28,Entertainment,1606,UPI,Expense
+2024-02-01,Grocery,1388,UPI,Expense
+2024-06-19,Shopping,4787,Debit Card,Expense
+2024-05-25,Food,946,Cash,Expense
+2024-05-18,Bills,3563,Cash,Expense
+2024-01-27,Food,689,Debit Card,Expense
+2024-02-26,Food,708,UPI,Expense
+2024-01-21,Shopping,1446,Cash,Expense
+2024-06-24,Transport,250,Credit Card,Expense
+2024-02-13,Entertainment,1585,Cash,Expense
+2024-06-08,Shopping,2518,Credit Card,Expense
+2024-05-30,Food,551,UPI,Expense
+2024-01-05,Entertainment,1959,UPI,Expense
+2024-04-18,Entertainment,1171,Credit Card,Expense
+2024-04-30,Bills,3413,UPI,Expense
+2024-03-02,Shopping,4235,Credit Card,Expense
+2024-05-04,Transport,74,Cash,Expense
+2024-01-01,Bills,3710,Debit Card,Expense
+2024-06-17,Entertainment,1466,UPI,Expense
+2024-03-18,Shopping,2088,Debit Card,Expense
+2024-01-11,Transport,261,Debit Card,Expense
+2024-04-13,Entertainment,1675,Debit Card,Expense
+2024-01-30,Grocery,1337,Debit Card,Expense
+2024-06-02,Grocery,927,UPI,Expense
+2024-03-09,Grocery,594,Debit Card,Expense
+2024-02-19,Grocery,1222,UPI,Expense
+2024-04-06,Food,736,Debit Card,Expense
+2024-04-02,Bills,2229,Debit Card,Expense
+2024-04-25,Grocery,554,UPI,Expense
+2024-02-06,Bills,2409,UPI,Expense
+2024-06-21,Grocery,940,Credit Card,Expense
+2024-04-27,Grocery,1031,Credit Card,Expense
+2024-04-22,Food,556,Credit Card,Expense
+2024-06-19,Bills,2786,Cash,Expense
+2024-01-20,Shopping,2017,Cash,Expense
+2024-04-10,Food,506,Debit Card,Expense
+2024-02-29,Transport,99,UPI,Expense
+2024-04-19,Shopping,3006,Credit Card,Expense
+2024-04-24,Transport,284,Credit Card,Expense
+2024-06-29,Bills,3513,Debit Card,Expense
+2024-03-21,Food,494,Debit Card,Expense
+2024-04-18,Food,666,UPI,Expense
+2024-03-22,Food,699,Cash,Expense
+2024-03-17,Entertainment,1395,UPI,Expense
+2024-01-20,Food,660,Debit Card,Expense
+2024-04-19,Bills,3611,Credit Card,Expense
+2024-04-11,Transport,190,Credit Card,Expense
+2024-03-01,Food,916,Cash,Expense
+2024-02-25,Entertainment,1124,UPI,Expense
+2024-05-14,Food,986,UPI,Expense
+2024-02-21,Entertainment,801,UPI,Expense
+2024-06-22,Food,957,UPI,Expense
+2024-05-31,Grocery,691,UPI,Expense
+2024-03-15,Transport,159,Debit Card,Expense
+2024-01-25,Entertainment,1282,Debit Card,Expense
+2024-04-01,Entertainment,1714,UPI,Expense
+2024-03-19,Bills,3290,Debit Card,Expense
+2024-05-26,Grocery,1434,Credit Card,Expense
+2024-03-22,Grocery,554,Credit Card,Expense
+2024-02-15,Transport,163,Cash,Expense
+2024-04-23,Bills,2893,Credit Card,Expense
+2024-05-02,Entertainment,1828,Credit Card,Expense
+2024-06-09,Food,921,Credit Card,Expense
+2024-01-31,Grocery,793,Debit Card,Expense
+2024-06-11,Entertainment,1427,Debit Card,Expense
+2024-06-06,Entertainment,1399,Cash,Expense
+2024-04-20,Bills,2266,UPI,Expense
+2024-05-11,Transport,140,Cash,Expense
+2024-03-01,Shopping,4949,UPI,Expense
+2024-04-11,Bills,2972,Cash,Expense
+2024-02-13,Bills,2993,Cash,Expense
+2024-05-25,Shopping,1789,UPI,Expense
+2024-03-09,Grocery,997,Debit Card,Expense
+2024-06-05,Grocery,846,Cash,Expense
+2024-02-12,Entertainment,931,Debit Card,Expense
+2024-03-09,Entertainment,479,Debit Card,Expense
+2024-03-01,Food,853,Debit Card,Expense
+2024-05-20,Entertainment,1976,Credit Card,Expense
+2024-04-25,Grocery,503,Credit Card,Expense
+2024-02-15,Transport,102,Debit Card,Expense
+2024-03-10,Transport,53,Cash,Expense
+2024-04-15,Transport,103,Cash,Expense
+2024-04-27,Shopping,2119,Cash,Expense
+2024-04-09,Grocery,1370,Debit Card,Expense
+2024-05-07,Bills,3444,Debit Card,Expense
+2024-02-04,Shopping,1271,Credit Card,Expense
+2024-05-27,Transport,233,Credit Card,Expense
+2024-01-24,Food,887,Cash,Expense
+2024-01-29,Bills,3417,Credit Card,Expense
+2024-02-19,Bills,2354,Cash,Expense
+2024-05-17,Shopping,3872,Cash,Expense
+2024-06-07,Transport,257,UPI,Expense
+2024-04-08,Grocery,928,Credit Card,Expense
+2024-05-10,Entertainment,1556,Debit Card,Expense
+2024-06-08,Entertainment,1123,Credit Card,Expense
+2024-02-10,Entertainment,1465,Debit Card,Expense
+2024-06-29,Grocery,932,Cash,Expense
+2024-03-10,Bills,2760,Credit Card,Expense
+2024-05-23,Transport,188,Credit Card,Expense
+2024-06-17,Transport,274,Cash,Expense
+2024-05-23,Food,769,Cash,Expense
+2024-01-29,Entertainment,1253,UPI,Expense
+2024-03-02,Food,1000,Debit Card,Expense
+2024-05-17,Entertainment,1651,UPI,Expense
+2024-04-09,Bills,2944,UPI,Expense
+2024-03-14,Grocery,1319,Cash,Expense
+2024-02-18,Shopping,3984,Credit Card,Expense
+2024-03-17,Entertainment,524,UPI,Expense
+2024-06-12,Food,581,Credit Card,Expense
+2024-03-25,Shopping,4560,Debit Card,Expense
+2024-05-13,Shopping,1504,Cash,Expense
+2024-01-13,Bills,3457,Cash,Expense
+2024-06-15,Transport,84,Debit Card,Expense
+2024-03-16,Transport,255,UPI,Expense
+2024-05-03,Entertainment,622,Debit Card,Expense
+2024-06-16,Grocery,960,Cash,Expense
+2024-02-25,Food,680,Debit Card,Expense
+2024-02-27,Grocery,695,Debit Card,Expense
+2024-02-16,Grocery,710,UPI,Expense
+2024-05-07,Entertainment,803,Debit Card,Expense
+2024-04-12,Food,686,Credit Card,Expense
+2024-01-22,Grocery,522,UPI,Expense
+2024-03-01,Grocery,1288,UPI,Expense
+2024-05-20,Entertainment,749,UPI,Expense
+2024-02-25,Bills,3913,Credit Card,Expense
+2024-04-13,Bills,3585,UPI,Expense
+2024-05-01,Food,641,Credit Card,Expense
+2024-02-07,Entertainment,1602,Debit Card,Expense
+2024-04-21,Food,345,UPI,Expense
+2024-03-10,Grocery,1140,Cash,Expense
+2024-01-14,Food,826,Debit Card,Expense
+2024-05-30,Entertainment,1038,Credit Card,Expense
+2024-02-06,Transport,252,Debit Card,Expense
+2024-06-29,Food,553,Cash,Expense
+2024-03-01,Grocery,1175,Debit Card,Expense
+2024-05-01,Entertainment,909,UPI,Expense
+2024-06-11,Transport,164,UPI,Expense
+2024-01-16,Entertainment,722,Debit Card,Expense
+2024-05-15,Entertainment,1659,Debit Card,Expense
+2024-02-27,Grocery,823,Cash,Expense
+2024-05-28,Entertainment,1560,Debit Card,Expense
+2024-05-28,Food,612,Debit Card,Expense
+2024-03-25,Bills,3952,Debit Card,Expense
+2024-05-12,Entertainment,1240,Cash,Expense
+2024-01-24,Entertainment,990,Cash,Expense
+2024-02-29,Food,272,UPI,Expense
+2024-06-13,Food,566,Cash,Expense
+2024-06-03,Food,740,Credit Card,Expense
+2024-01-02,Food,932,Credit Card,Expense
+2024-04-22,Transport,249,Cash,Expense
+2024-06-24,Entertainment,1418,Credit Card,Expense
+2024-03-23,Bills,2984,Cash,Expense
+2024-01-26,Food,240,Debit Card,Expense
+2024-01-02,Grocery,698,Cash,Expense
+2024-03-15,Food,771,Debit Card,Expense
+2024-03-04,Entertainment,1247,Cash,Expense
+2024-06-21,Food,862,UPI,Expense
+2024-03-11,Entertainment,1564,Cash,Expense
+2024-03-12,Food,981,Credit Card,Expense
+2024-05-25,Food,300,Debit Card,Expense
+2024-05-13,Food,663,Credit Card,Expense
+2024-01-05,Shopping,1734,Debit Card,Expense
+2024-01-27,Shopping,3784,Credit Card,Expense
+2024-04-23,Grocery,1370,Cash,Expense
+2024-01-31,Bills,3577,UPI,Expense
+2024-02-13,Transport,253,UPI,Expense
+2024-04-14,Transport,195,Credit Card,Expense
+2024-01-14,Food,578,Debit Card,Expense
+2024-05-14,Transport,72,Debit Card,Expense
+2024-03-11,Food,495,Cash,Expense
+2024-04-23,Entertainment,1825,Credit Card,Expense
+2024-01-27,Transport,110,Credit Card,Expense
+2024-06-29,Food,272,UPI,Expense
+2024-01-02,Transport,186,UPI,Expense
+2024-01-14,Shopping,1674,Cash,Expense
+2024-01-25,Transport,81,Debit Card,Expense
+2024-06-27,Entertainment,1962,UPI,Expense
+2024-04-06,Entertainment,452,UPI,Expense
+2024-03-28,Transport,64,Debit Card,Expense
+2024-04-14,Transport,233,Credit Card,Expense
+2024-01-12,Entertainment,1321,Credit Card,Expense
+2024-03-06,Bills,3794,Debit Card,Expense
+2024-06-02,Transport,81,Credit Card,Expense
